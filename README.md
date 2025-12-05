@@ -14,19 +14,19 @@
 
 ### Homepage
 
-![Blog Homepage](./frontend/public/ProjetImages/Screenshot%202025-12-05%20115735.png)
+![Blog Homepage](./seo-blog/frontend/public/ProjetImages/Screenshot%202025-12-05%20115735.png)
 
 ### Blog Posts Listing
 
-![Blog Posts](./frontend/public/ProjetImages/Screenshot%202025-12-05%20115750.png)
+![Blog Posts](./seo-blog/frontend/public/ProjetImages/Screenshot%202025-12-05%20115750.png)
 
 ### Post Detail Page
 
-![Post Detail](./frontend/public/ProjetImages/Screenshot%202025-12-05%20115829.png)
+![Post Detail](./seo-blog/frontend/public/ProjetImages/Screenshot%202025-12-05%20115829.png)
 
 ### Admin Dashboard & Post Management
 
-![Admin Features](./frontend/public/ProjetImages/Screenshot%202025-12-05%20115846.png)
+![Admin Features](./seo-blog/frontend/public/ProjetImages/Screenshot%202025-12-05%20115846.png)
 
 ## Tech Stack
 
